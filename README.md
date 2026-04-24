@@ -27,9 +27,9 @@ TechShop delivers a smooth shopping experience with global search, cart manageme
 ---
 
 ## 🛠️ Tech Stack
- React
- JavaScript
- Bootstrap
+ React, 
+ JavaScript, 
+ Bootstrap, 
  Vite
 
 ---
