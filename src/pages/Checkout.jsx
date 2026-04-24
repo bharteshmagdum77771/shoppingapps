@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { useNavigate } from 'react-router';
+import { useNavigate } from 'react-router-dom';
 import { Container, Row, Col, Card, Form, Button, ListGroup, Alert } from 'react-bootstrap';
 import { CreditCard, MapPin, User, Check } from 'lucide-react';
 import { useCart } from '../context/CartContext';
