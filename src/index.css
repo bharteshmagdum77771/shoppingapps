@@ -1,0 +1,11 @@
+.navbar .nav-link {
+  color: #e0e0e0 !important; /* dark white default */
+}
+
+.navbar .nav-link:hover {
+  color: #cfcfcf !important; /* slightly darker white on hover */
+}
+
+html {
+  overflow-y: scroll;
+}
