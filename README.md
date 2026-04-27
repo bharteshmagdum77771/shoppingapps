@@ -21,7 +21,7 @@ TechShop delivers a smooth shopping experience with global search, cart manageme
 -  Cart system with quantity management 
 -  Fully responsive UI (mobile, desktop)
 -  Clean UX with modern ecommerce layout
--  context API
+-  Context API for state management
 ---
 
 ## 🛠️ Tech Stack
