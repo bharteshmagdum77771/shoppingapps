@@ -103,23 +103,6 @@ export const products = [
   },
   {
     id: 7,
-    name: "Gaming Console",
-    price: 499.99,
-    description: "Next-gen gaming console with stunning graphics and lightning-fast load times. Includes wireless controller.",
-    image: "https://images.unsplash.com/photo-1695028644151-1ec92bae9fb0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxnYW1pbmclMjBjb25zb2xlJTIwY29udHJvbGxlcnxlbnwxfHx8fDE3NzM2NzEwMDV8MA&ixlib=rb-4.1.0&q=80&w=1080",
-    category: "Gaming",
-    rating: 4.8,
-    reviews: 876,
-    inStock: true,
-    features: [
-      "4K gaming at 120fps",
-      "Ultra-fast SSD",
-      "Ray tracing",
-      "Wireless controller included"
-    ]
-  },
-  {
-    id: 8,
     name: "Portable Bluetooth Speaker",
     price: 149.99,
     description: "Portable speaker with powerful sound and deep bass. Waterproof design perfect for outdoor adventures.",
@@ -136,7 +119,7 @@ export const products = [
     ]
   },
   {
-    id: 9,
+    id: 8,
     name: "Fitness Tracker",
     price: 179.99,
     description: "Track your health and fitness goals with precision. Features heart rate monitoring, sleep tracking, and more.",
@@ -153,24 +136,7 @@ export const products = [
     ]
   },
   {
-    id: 10,
-    name: "4K Drone",
-    price: 699.99,
-    description: "Professional drone with 4K camera and intelligent flight modes. Capture stunning aerial footage with ease.",
-    image: "https://images.unsplash.com/photo-1724406096690-9fdf908faa87?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxkcm9uZSUyMHF1YWRjb3B0ZXIlMjB0ZWNobm9sb2d5fGVufDF8fHx8MTc3MzY5ODQ4M3ww&ixlib=rb-4.1.0&q=80&w=1080",
-    category: "Photography",
-    rating: 4.7,
-    reviews: 298,
-    inStock: true,
-    features: [
-      "4K camera",
-      "Intelligent flight modes",
-      "30-minute flight time",
-      "GPS positioning"
-    ]
-  },
-  {
-    id: 11,
+    id: 9,
     name: "True Wireless Earbuds",
     price: 199.99,
     description: "Premium wireless earbuds with active noise cancellation and crystal-clear sound. Perfect fit for all-day comfort.",
@@ -187,7 +153,7 @@ export const products = [
     ]
   },
   {
-    id: 12,
+    id: 10,
     name: "Mechanical Gaming Keyboard",
     price: 159.99,
     description: "RGB mechanical keyboard with premium switches. Perfect for gaming and productivity with customizable keys.",
