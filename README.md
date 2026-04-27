@@ -1,12 +1,13 @@
-#  TechShop – E-Commerce Shopping App
+#  TechShop E-Commerce Shopping App
 
 A fully responsive and modern **frontend e-commerce web application** built with **Vite, React, JavaScript, and Bootstrap**.  
 TechShop delivers a smooth shopping experience with global search, cart management, product filtering, and a clean UI inspired by real-world ecommerce platforms.
 
 ---
 
-## Live Demo
-https://shoppingapps-seven.vercel.app/ 
+## 🌐 Live Demo
+
+👉 [View Live Project](https://shoppingapps-seven.vercel.app/)
 
 
 ---
@@ -17,10 +18,8 @@ https://shoppingapps-seven.vercel.app/
 - ⚡ Debounced search for optimized performance
 - 🛍️ Product filtering by category
 - 🔃 Sorting (price, rating, name)
-- 🛒 Cart system with quantity management
-- 💾 Persistent cart using localStorage
-- 📦 Product detail pages with related products
-- 📱 Fully responsive UI (mobile + desktop)
+- 🛒 Cart system with quantity management 
+- 📱 Fully responsive UI (mobile, desktop)
 - 🎯 Clean UX with modern ecommerce layout
 - 🔄 React Context API for state management
 
@@ -37,32 +36,17 @@ https://shoppingapps-seven.vercel.app/
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-> Add screenshot here  
 ![Home Page](./screenshots/home.png)
 
 ---
 
-### 🔍 Product Search (Live Suggestions)
-> Add screenshot here  
-![Search](./screenshots/search.png)
-
----
-
 ### 🛍️ Product Page
-> Add screenshot here  
 ![Product](./screenshots/product.png)
 
 ---
 
-### 🛒 Cart Page
-> Add screenshot here  
+### 🛒 Cart Page 
 ![Cart](./screenshots/cart.png)
-
----
-
-### 💳 Checkout Page
-> Add screenshot here  
-![Checkout](./screenshots/checkout.png)
 
 ---
 
