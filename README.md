@@ -14,14 +14,14 @@ TechShop delivers a smooth shopping experience with global search, cart manageme
 
 ## ✨ Features
 
-- 🔍 **Global Search** with live suggestions
-- ⚡ Debounced search for optimized performance
-- 🛍️ Product filtering by category
-- 🔃 Sorting (price, rating, name)
-- 🛒 Cart system with quantity management 
-- 📱 Fully responsive UI (mobile, desktop)
-- 🎯 Clean UX with modern ecommerce layout
-
+-  **Global Search** with live suggestions
+-  Debounced search for optimized performance
+-  Product filtering by category
+-  Sorting (price, rating, name)
+-  Cart system with quantity management 
+-  Fully responsive UI (mobile, desktop)
+-  Clean UX with modern ecommerce layout
+-  context API
 ---
 
 ## 🛠️ Tech Stack
