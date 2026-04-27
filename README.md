@@ -21,7 +21,6 @@ TechShop delivers a smooth shopping experience with global search, cart manageme
 - 🛒 Cart system with quantity management 
 - 📱 Fully responsive UI (mobile, desktop)
 - 🎯 Clean UX with modern ecommerce layout
-- 🔄 React Context API for state management
 
 ---
 
@@ -49,13 +48,3 @@ TechShop delivers a smooth shopping experience with global search, cart manageme
 ![Cart](./screenshots/cart.png)
 
 ---
-
-## 📂 Project Structure
-src/
-├── components/
-├── pages/
-├── context/
-├── hooks/
-├── data/
-├── routes/
-└── App.jsx
