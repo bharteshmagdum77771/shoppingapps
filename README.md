@@ -35,16 +35,16 @@ TechShop delivers a smooth shopping experience with global search, cart manageme
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](./screenshots/home.png)
+![Home Page](.assets/screenshots/home.png)
 
 ---
 
 ### 🛍️ Product Page
-![Product](./screenshots/product.png)
+![Product](.assets/screenshots/product.png)
 
 ---
 
 ### 🛒 Cart Page 
-![Cart](./screenshots/cart.png)
+![Cart](.assets/screenshots/cart.png)
 
 ---
