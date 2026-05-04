@@ -107,7 +107,7 @@ export function Products() {
       {/* GRID */}
       <Row className="g-4">
         {sortedProducts.map((product) => (
-          <Col key={product.id} sm={6} lg={4} xl={3}>
+          <Col key={product.id} xs={6} sm={4} md={3} lg={3}>
             <ProductCard product={product} />
           </Col>
         ))}

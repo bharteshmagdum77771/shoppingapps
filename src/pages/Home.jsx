@@ -134,7 +134,7 @@ export function Home() {
 
           <Row className="g-4">
             {featuredProducts.map((product) => (
-              <Col key={product.id} sm={6} lg={3}>
+              <Col key={product.id} xs={6} sm={4} md={3} lg={3}>
                 <ProductCard product={product} />
               </Col>
             ))}
